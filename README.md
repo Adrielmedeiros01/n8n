@@ -28,4 +28,11 @@
     
     https://developers.facebook.com/
     
+------------------------------------------------------------------------
 
+    
+    Usar túnel (rápido pra teste)
+    
+    Ferramentas tipo:
+    
+    ngrok
